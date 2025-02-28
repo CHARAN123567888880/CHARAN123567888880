@@ -1,4 +1,3 @@
-CHARAN TEJA / Read.md
 💫About.Me:<br>
 🔭 I’m currently working as Volunteer in swecha organization<br>
 🏫 I’m currently learning to work with Javascript for Portfolio<br>
