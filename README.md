@@ -1,7 +1,7 @@
 CHARAN TEJA / Read.md
-💫About.Me:
-🔭 I’m currently working as Volunteer in swecha organization
-🏫 I’m currently learning to work with Javascript for Portfolio
+💫About.Me:<br>
+🔭 I’m currently working as Volunteer in swecha organization<br>
+🏫 I’m currently learning to work with Javascript for Portfolio<br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/charan-teja-a1000a2b6/) 
 
